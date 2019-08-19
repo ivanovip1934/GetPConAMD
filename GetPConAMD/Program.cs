@@ -16,7 +16,7 @@ namespace ConsoleApp2
             string ModelMainBoard = "";
             string ModelCPU = "";
             string Path = @"\\fileserv.omsu.vmr\Inventory$\InstalledPC\PConAMD.csv";
-            string SearchCPU = "intel";
+            string SearchCPU = "AMD";
 
 
 
